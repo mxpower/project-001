@@ -1,2 +1,18 @@
-mamate matin kheili khube
-ye kossher jdid
+git init
+git config
+user.name
+user.email
+git log
+git status
+git add
+git commit -m 'kossher'
+git restore --stage FILENAME (back to staging mode)
+git log --one line
+git log --stat
+git branch
+git branch --list
+touch
+git checkout BRANCHNAME (to change branches)
+git merge BRANCHNAME (to add another branch in present branch)
+git branch -m ExsitedBranchName NewBranchName
+
