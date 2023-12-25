@@ -15,4 +15,4 @@ touch
 git checkout BRANCHNAME (to change branches)
 git merge BRANCHNAME (to add another branch in present branch)
 git branch -m ExsitedBranchName NewBranchName
-
+kos
